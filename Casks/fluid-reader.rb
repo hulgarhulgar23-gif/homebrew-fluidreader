@@ -7,7 +7,8 @@ cask "fluid-reader" do
   desc "Local-first menu-bar app that reads and acts on screen content"
   homepage "https://github.com/hulgarhulgar23-gif/fluid-reader"
 
-  depends_on macos: ">= :sonoma"
+  # Means Sonoma or newer (Homebrew's default comparator is >=).
+  depends_on macos: :sonoma
   depends_on arch: :arm64
 
   app "FluidReader.app"
