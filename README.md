@@ -1,7 +1,9 @@
 # Fluid Reader Homebrew Tap
 
 Homebrew cask for [Fluid Reader](https://github.com/hulgarhulgar23-gif/fluid-reader),
-a local-first macOS menu-bar app that reads and acts on screen content.
+a local-first macOS tool for hard-to-copy text in screenshots, PDFs, paused video, and inaccessible apps.
+
+Project site: <https://hulgarhulgar23-gif.github.io/fluid-reader/>
 
 ## Install
 
